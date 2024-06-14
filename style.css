@@ -4,10 +4,44 @@
     padding: 0;
 }
 
-.cuerpo {
+.encabezado {
     background-color: aqua;
+    width: 100%;
+    
 }
 
-.sobre_mi {
-    background-color: blue;
+.principal {
+    background-color: yellow;
+    height: 100vh; /*vertical height*/
+
 }
+
+.presentacion-banner {
+    background-color: brown;
+    padding-left: 30px;
+}
+
+
+
+
+
+/*
+.cuerpo {
+    background-color: greenyellow;
+}
+
+.encabezado {
+    background-color: gray;
+    }
+    .enlaces {
+        display: flex;
+        text-align: right;
+   
+    }
+    .enlaces_item {
+        padding: 20px;
+    }
+    .presentacion-banner{
+        background-color: gray;
+    }
+*/
